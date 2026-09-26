@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable no-console -- this is a CLI test runner; its output IS the result. */
 /**
  * Constraint-satisfaction tests for the circuits in this directory.
  *
